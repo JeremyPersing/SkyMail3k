@@ -20,3 +20,5 @@ I have another repo on my github that contains a downloadable jar file if you wo
 - Practical Applications of Data Structures
 - Build Components with High Coupling and Loose Cohesion
 - CodenameOne
+- How to create simple assets
+- How to make assets move based on user input and time
